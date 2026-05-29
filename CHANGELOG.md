@@ -9,3 +9,4 @@
 - refactor: inline cli constant
 - perf: memoize config lookup
 - fix: validate council args
+- fix: fix off-by-one in chain
