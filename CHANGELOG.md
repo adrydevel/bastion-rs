@@ -7,3 +7,4 @@
 - cli scaffold.
 - docs: expand config section
 - refactor: inline cli constant
+- perf: memoize config lookup
