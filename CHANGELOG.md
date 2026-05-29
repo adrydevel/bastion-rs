@@ -8,3 +8,4 @@
 - docs: expand config section
 - refactor: inline cli constant
 - perf: memoize config lookup
+- fix: validate council args
