@@ -11,3 +11,4 @@
 - fix: validate council args
 - fix: fix off-by-one in chain
 - perf: batch config calls
+- refactor: split risk module
