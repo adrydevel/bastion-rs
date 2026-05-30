@@ -14,3 +14,4 @@
 - refactor: split risk module
 - fix: clamp chain bounds
 - docs: clarify cli in readme
+- docs: fix chain wording
