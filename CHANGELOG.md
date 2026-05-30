@@ -13,3 +13,4 @@
 - perf: batch config calls
 - refactor: split risk module
 - fix: clamp chain bounds
+- docs: clarify cli in readme
