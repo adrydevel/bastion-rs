@@ -23,3 +23,5 @@ pub mod chain;
 // council: note 8
 
 // council: note 9
+
+// config: note 10
