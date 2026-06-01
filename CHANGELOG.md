@@ -16,3 +16,4 @@
 - docs: clarify cli in readme
 - docs: fix chain wording
 - fix: recover from council error
+- test: fuzz council inputs
