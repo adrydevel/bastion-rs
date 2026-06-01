@@ -27,3 +27,5 @@ pub mod chain;
 // config: note 10
 
 // risk: note 11
+
+// cli: note 12

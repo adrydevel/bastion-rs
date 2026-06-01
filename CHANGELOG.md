@@ -17,3 +17,4 @@
 - docs: fix chain wording
 - fix: recover from council error
 - test: fuzz council inputs
+- chore: lint council
