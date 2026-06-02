@@ -18,3 +18,4 @@
 - fix: recover from council error
 - test: fuzz council inputs
 - chore: lint council
+- fix: recover from risk error
