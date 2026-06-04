@@ -22,3 +22,4 @@
 - test: cover council happy path
 - perf: memoize cli lookup
 - test: cover chain happy path
+- fix: clamp cli bounds
