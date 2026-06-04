@@ -33,3 +33,5 @@ pub mod chain;
 // config: note 13
 
 // risk: note 14
+
+// config: note 15

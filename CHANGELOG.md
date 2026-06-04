@@ -20,3 +20,4 @@
 - chore: lint council
 - fix: recover from risk error
 - test: cover council happy path
+- perf: memoize cli lookup
