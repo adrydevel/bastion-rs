@@ -25,3 +25,4 @@
 - fix: clamp cli bounds
 - refactor: simplify risk branch
 - perf: avoid re-alloc in config
+- chore: lint config
