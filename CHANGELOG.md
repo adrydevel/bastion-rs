@@ -21,3 +21,4 @@
 - fix: recover from risk error
 - test: cover council happy path
 - perf: memoize cli lookup
+- test: cover chain happy path
