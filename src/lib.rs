@@ -41,3 +41,5 @@ pub mod chain;
 // cli: note 17
 
 // risk: note 18
+
+// chain: note 19

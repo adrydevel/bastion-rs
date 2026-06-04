@@ -24,3 +24,4 @@
 - test: cover chain happy path
 - fix: clamp cli bounds
 - refactor: simplify risk branch
+- perf: avoid re-alloc in config
