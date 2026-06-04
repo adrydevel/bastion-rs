@@ -23,3 +23,4 @@
 - perf: memoize cli lookup
 - test: cover chain happy path
 - fix: clamp cli bounds
+- refactor: simplify risk branch
