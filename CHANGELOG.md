@@ -26,3 +26,4 @@
 - refactor: simplify risk branch
 - perf: avoid re-alloc in config
 - chore: lint config
+- perf: cache council result
