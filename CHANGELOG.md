@@ -28,3 +28,4 @@
 - chore: lint config
 - perf: cache council result
 - refactor: extract cli helper
+- test: fuzz config inputs
