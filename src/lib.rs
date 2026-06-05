@@ -47,3 +47,5 @@ pub mod chain;
 // chain: note 20
 
 // chain: note 21
+
+// config: note 22

@@ -27,3 +27,4 @@
 - perf: avoid re-alloc in config
 - chore: lint config
 - perf: cache council result
+- refactor: extract cli helper
