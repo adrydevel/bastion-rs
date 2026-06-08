@@ -32,3 +32,4 @@
 - refactor: split cli module
 - refactor: dedupe config logic
 - refactor: extract council helper
+- perf: cache chain result
