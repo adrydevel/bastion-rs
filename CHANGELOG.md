@@ -31,3 +31,4 @@
 - test: fuzz config inputs
 - refactor: split cli module
 - refactor: dedupe config logic
+- refactor: extract council helper
