@@ -51,3 +51,5 @@ pub mod chain;
 // config: note 22
 
 // cli: note 23
+
+// chain: note 24

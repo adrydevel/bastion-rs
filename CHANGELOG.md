@@ -29,3 +29,4 @@
 - perf: cache council result
 - refactor: extract cli helper
 - test: fuzz config inputs
+- refactor: split cli module
