@@ -30,3 +30,4 @@
 - refactor: extract cli helper
 - test: fuzz config inputs
 - refactor: split cli module
+- refactor: dedupe config logic
