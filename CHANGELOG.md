@@ -33,3 +33,4 @@
 - refactor: dedupe config logic
 - refactor: extract council helper
 - perf: cache chain result
+- fix: guard empty chain response

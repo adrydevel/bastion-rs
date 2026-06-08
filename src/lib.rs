@@ -59,3 +59,5 @@ pub mod chain;
 // council: note 26
 
 // risk: note 27
+
+// config: note 28
